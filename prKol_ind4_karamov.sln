@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prKol_ind4_karamov", "prKol_ind4_karamov.csproj", "{01EDC73E-F97C-4CE7-B71D-3992B2E8B259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01EDC73E-F97C-4CE7-B71D-3992B2E8B259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01EDC73E-F97C-4CE7-B71D-3992B2E8B259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01EDC73E-F97C-4CE7-B71D-3992B2E8B259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01EDC73E-F97C-4CE7-B71D-3992B2E8B259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81195B79-E1D9-4546-BD7E-D2BC01E0AAE3}
+	EndGlobalSection
+EndGlobal
